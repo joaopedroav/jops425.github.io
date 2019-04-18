@@ -1,0 +1,14 @@
+.back-colour {
+  background-color: #f9fcff;
+}
+
+div {
+    margin-bottom: 1%;
+}
+
+img {
+    margin-top: 5%;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
